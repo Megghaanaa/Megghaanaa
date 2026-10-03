@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Meghana, most people call me megs 👋</h1>
 
 <p align="center">
-  <em>Backend engineer who gets unreasonably excited about specs and protocols.</em>
+  <em>Backend engineer who gets unreasonably excited about life and maybe code as well.</em>
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## 🧑‍💻 About me
 
-- I'm a software engineer with two years of experience, mostly in backend development at [Deutsche Bank], and I previously interned at [NVIDIA].
+- I'm a software engineer with 2 years of experience, mostly in backend development at Deutsche Bank, and I previously interned at NVIDIA.
 - I like explaining specs and protocols without the jargon.
-- I read tech blogs for fun, and lately I've been falling down a JavaScript tooling rabbit hole.
+- I read tech blogs for fun and i love to dance.
 - Outside work, I host technical and cultural events, shows and developer meetups. Yes, I will introduce your session. 🎤
 
-## 🔭 What I'm building
+## 🔭 What I'm building right now
 
 - 🕵️ [**my-post-has-an-alibi**](https://github.com/[your-username]/my-post-has-an-alibi): verifying a Bluesky post from scratch on the AT Protocol
 - 🗺️ [**who-wrote-that**](https://github.com/[your-username]/who-wrote-that): decoding source maps by hand
