@@ -1,30 +1,32 @@
-# hi, i'm meghana 🌷
+<h1 align="center">hi, i'm meghana ✦</h1>
 
-`backend engineer` · `protocols nerd` · `event host`
+<p align="center">
+  <i>backend engineer · systems curious · protocol enthusiast</i>
+</p>
 
-I like building things that quietly make complicated things
-feel a little less complicated.
+<p align="center">
+  ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+</p>
 
-currently somewhere between:
-
-☁️ backend systems
-🧩 developer tools
-🔗 protocols & distributed systems
-🪄 automation
-🎤 tech communities
-
----
-
-### things i speak
-
-`Python` `Java` `Linux` `Git` `Jenkins` `QNX`
-
-### currently curious about
-
-AI agents · A2A · context engineering · open source
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=building+things+that+make+sense;breaking+things+to+understand+them;learning+something+new+every+day" />
+</p>
 
 ---
 
-> building, breaking, learning, repeating.
+### ୨୧ a little about me
 
-˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+I'm a backend engineer who likes understanding what happens
+*under the hood*.
+
+I build, automate, debug, occasionally break things,
+and then become unnecessarily curious about why they broke.
+
+```text
+currently somewhere between...
+
+backend systems       ──┐
+developer tooling       │
+protocols & systems     ├──> figuring things out ✦
+automation              │
+AI agents             ──┘
