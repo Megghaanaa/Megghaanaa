@@ -59,3 +59,111 @@ them without making everyone feel like they need a PhD first. ♡
 │   🌷 professional overthinker        │
 │                                      │
 ╰──────────────────────────────────────╯
+
+🌷 things i genuinely enjoy
+☁️ reading tech blogs for fun
+🧩 understanding specs & protocols
+💻 building things that make sense
+🎤 hosting technical & cultural events
+💃 dancing
+🌱 learning something completely random
+☕ coffee + questionable amounts of screen time  
+
+🪽 how my brain usually works
+        ☁️ "that's interesting"
+                  ↓
+        🧐 "but how does it work?"
+                  ↓
+        🔍 investigate
+                  ↓
+        🧩 understand the protocol
+                  ↓
+        💻 build something
+                  ↓
+        🐛 break something
+                  ↓
+        🛠️ fix it
+                  ↓
+        ✨ "ohhhhhh"
+
+
+🎀 currently building
+🕵🏻 my-post-has-an-alibi
+verifying a Bluesky post from scratch using the AT Protocol
+
+🔗 explore the project
+🗺️ who-wrote-that
+decoding source maps by hand
+
+because apparently looking at generated JavaScript
+and asking "who wrote this?" wasn't enough.
+🔗 explore the project
+
+☁️ both projects are works in progress.
+🎀 each README says exactly what currently works.
+
+🪄 my little toolbox
+<p align="center">
+
+🐍 Python ·
+☕ Java ·
+🟨 JavaScript ·
+🟢 Node.js
+
+🐧 Linux ·
+🌿 Git ·
+⚙️ Jenkins ·
+🖥️ QNX ·
+👁️ OpenCV
+</p>
+
+
+
+☁️ currently floating around in my brain
+<p align="center">
+
+🪽 AI Agents
+  •  
+🔗 A2A Protocols
+  •  
+🧠 Context Engineering
+  •  
+🧩 Developer Tools
+  •  
+🌐 Open Source
+</p>
+
+<p align="center">
+  <em>one rabbit hole at a time ⋆｡°✩</em>
+</p>
+
+
+
+🧁 things i'm learning
+☁️ protocols
+🪽 distributed systems
+🎀 AI agents
+🧩 developer tooling
+🌱 open source
+🔮 how everything works under the hood
+
+
+🎤 tiny stages & big microphones
+I've given a few regional and college talks,
+and I'm working toward my first international one.
+Currently collecting:
+ideas → slides → nervousness → microphone → ✨ go ✨
+
+And yes...
+if you give me a microphone,
+I will probably introduce your session. 🎤
+
+
+🌸 outside of work
+💃 dance
+📚 read
+☕ coffee
+✈️ travel
+🎤 host events
+📸 take pictures
+🌅 collect pretty moments
