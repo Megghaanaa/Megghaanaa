@@ -1,35 +1,53 @@
-<h1 align="center">Hi, I'm Meghana, most people call me megs 👋</h1>
+<h1 align="center">hi, i'm meghana ♡</h1>
 
 <p align="center">
-  <em>Backend engineer who gets unreasonably excited about life and maybe code as well.</em>
+  <em>most people call me megs</em>
 </p>
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-
+  ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 </p>
 
-## 🧑‍💻 About me
+<p align="center">
+  <em>backend engineer who gets unreasonably excited about life<br>
+  and maybe code as well.</em>
+</p>
 
-- I'm a software engineer with 2 years of experience, mostly in backend development at Deutsche Bank, and I previously interned at NVIDIA.
-- I like explaining specs and protocols without the jargon.
-- I read tech blogs for fun and i love to dance.
-- Outside work, I host technical and cultural events, shows and developer meetups. Yes, I will introduce your session. 🎤
+<br>
 
-## 🔭 What I'm building right now
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffb7c5?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-c9b6e4?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-b8d8d8?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-f4a6a6?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-d8c3a5?style=flat-square&logo=jenkins&logoColor=white">
+</p>
 
-- 🕵️ [**my-post-has-an-alibi**](https://github.com/[your-username]/my-post-has-an-alibi): verifying a Bluesky post from scratch on the AT Protocol
-- 🗺️ [**who-wrote-that**](https://github.com/[your-username]/who-wrote-that): decoding source maps by hand
+<br>
 
-Both are work in progress, and each README says exactly what works.
+## ୨୧ a little about me
 
-## 🎤 Talks
+I'm a software engineer with **2 years of experience**, mostly working
+on backend development at **Deutsche Bank**.
 
-I've given a few regional and college talks, and I'm working toward my first international one.
+Before that, I interned at **NVIDIA**.
 
-## 📫 Say hi
+I like understanding complicated technical things and then explaining
+them without making everyone feel like they need a PhD first.
 
-[Email](mailto:[meghanathep@gmail.com])
-
-<p align="center"><sub>Opinions are my own, and so are the bad jokes :)</sub></p>
+```text
+backend systems
+      ↓
+specs & protocols
+      ↓
+"wait... how does this actually work?"
+      ↓
+investigate
+      ↓
+build something
+      ↓
+break something
+      ↓
+fix it
+      ↓
+✨ learn something new ✨
