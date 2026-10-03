@@ -30,3 +30,14 @@ developer tooling       │
 protocols & systems     ├──> figuring things out ✦
 automation              │
 AI agents             ──┘
+
+<p align="center">
+  ☁️ 🪽 🎀 🌷 🧩 ☕ 🌙
+</p>
+
+<p align="center">
+  <em>
+    curiosity is a pretty good way to live.
+  </em>
+</p>
+```
