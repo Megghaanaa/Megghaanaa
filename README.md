@@ -22,15 +22,6 @@ I'm a backend engineer who likes understanding what happens
 I build, automate, debug, occasionally break things,
 and then become unnecessarily curious about why they broke.
 
-```text
-currently somewhere between...
-
-backend systems       ──┐
-developer tooling       │
-protocols & systems     ├──> figuring things out ✦
-automation              │
-AI agents             ──┘
-
 <p align="center">
   ☁️ 🪽 🎀 🌷 🧩 ☕ 🌙
 </p>
@@ -41,3 +32,14 @@ AI agents             ──┘
   </em>
 </p>
 ```
+
+```text
+currently somewhere between...
+
+backend systems       ──┐
+developer tooling       │
+protocols & systems     ├──> figuring things out ✦
+automation              │
+AI agents             ──┘
+
+
